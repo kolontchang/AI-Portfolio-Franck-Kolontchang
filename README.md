@@ -23,6 +23,5 @@ Throughout this coursework, I have developed expertise in implementing and evalu
 ## Professional Contact Information
 **Franck Kolontchang**  
 *Aspiring AI & Deep Learning Engineer*  
-- **LinkedIn:** [Insert LinkedIn Profile URL]  
-- **Email:** [Insert Email Address]  
-- **GitHub:** [Insert GitHub Profile URL]
+- **LinkedIn:** [linkedin.com/in/franck-kolontchang-49668b395](https://www.linkedin.com/in/franck-kolontchang-49668b395)  
+- **GitHub:** [github.com/kolontchang](https://github.com/kolontchang)
