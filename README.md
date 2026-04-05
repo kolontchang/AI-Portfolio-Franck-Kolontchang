@@ -25,3 +25,4 @@ Throughout this coursework, I have developed expertise in implementing and evalu
 *Aspiring AI & Deep Learning Engineer*  
 - **LinkedIn:** [linkedin.com/in/franck-kolontchang-49668b395](https://www.linkedin.com/in/franck-kolontchang-49668b395)  
 - **GitHub:** [github.com/kolontchang](https://github.com/kolontchang)
+- **Email:** Kolontchangfranck@gmail.com
