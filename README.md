@@ -15,6 +15,7 @@ Throughout this coursework, I have developed expertise in implementing and evalu
 - **ITAI 2376 - Deep Learning:** This portfolio is exclusively dedicated to the coursework for ITAI 2376. It is a comprehensive deep learning course covering supervised learning, neural networks, computer vision (CNNs), natural language processing (RNNs/LSTMs), and Reinforcement Learning, culminating in practical AI agent development.
 
 ## Featured Projects
+- [**Featured Project: The Hunter - Automated Email Phishing Defense Detection System**](Featured_Project_The_Hunter_Phishing_Detection/): A comprehensive, AI-powered system designed to detect and defend against email phishing attacks. This is the cornerstone project of my Deep Learning portfolio.
 - [**Final Project: AI Agent Design**](Project/): Designed an LLM-powered agent pipeline incorporating principles of RLHF to solve complex classification tasks (e.g., Email Phishing Detection).
 - [**Lab 05: NLP Text Classification**](Labs/Lab_05/): Implemented and compared Vanilla RNNs, LSTMs, and GRUs from scratch for news categorization.
 - [**Lab 09: Reinforcement Learning**](Labs/Lab_09/): Trained agents using Q-learning to solve the CartPole-v1 environment, bridging classical RL to modern LLM training.

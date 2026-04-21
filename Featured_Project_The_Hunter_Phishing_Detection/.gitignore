@@ -1,0 +1,68 @@
+# ==============================================================
+# The Hunter - .gitignore
+# ==============================================================
+
+# ---- Environment & Secrets ----
+.env
+.env.local
+.env.production
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ---- Jupyter Notebook ----
+.ipynb_checkpoints/
+*.ipynb_meta
+
+# ---- Data Files ----
+data/
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+
+# ---- Trained Models ----
+models/
+*.keras
+*.pkl
+*.pickle
+*.joblib
+*.npy
+
+# ---- SQLite Databases ----
+*.db
+*.sqlite
+*.sqlite3
+
+# ---- Output & Figures ----
+outputs/
+figures/
+
+# ---- OS Files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---- Google Colab ----
+.config/
+sample_data/
+
+# ---- Virtual Environment ----
+venv/
+.venv/
+env/
