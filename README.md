@@ -22,7 +22,7 @@ This repository is a professional recap of all coursework and projects completed
 │
 │   ├── Lab_03_CNNs_Puppy_vs_Bagel/
 │   │   ├── README.md           # Image classification demonstrating feature extraction vs visual similarities.
-│   │   ├── model.py            # Code file pending upload.
+│   │   ├── model.py            # Module_03_Lab_CNNs_Puppy_vs_Bagel.ipynb
 │   │   └── results/            # Documented in Module_03_Lab_CNNs_Puppy_vs_Bagel.pdf.
 │
 │   ├── Lab_05_Sequence_Models/
@@ -32,7 +32,7 @@ This repository is a professional recap of all coursework and projects completed
 │
 │   ├── Lab_08_Deep_Learning_Optimization/
 │   │   ├── README.md           # Applied advanced hyperparameter tuning and model regularization techniques.
-│   │   ├── model.py            # Code file pending upload.
+│   │   ├── model.py            # Module_08_Lab_Diffusion_Models.ipynb
 │   │   └── results/            # Detailed in Lab_08_Report.docx
 │
 │   └── Lab_09_Reinforcement_Learning/
